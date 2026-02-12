@@ -1,0 +1,2 @@
+This is my sample repository.
+This file is created for Git practice.
